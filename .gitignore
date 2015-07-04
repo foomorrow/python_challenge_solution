@@ -1,4 +1,5 @@
-*.pyc
-*.zip
-*.png
+.DS_Store
 
+*.pyc
+.cache
+.env
